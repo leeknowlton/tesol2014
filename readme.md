@@ -2,6 +2,7 @@ TESOL 2014 Notes
 =========
 
 ##3 Secrets of Communication
+###Gary Schmidt, Toastmasters International
 ###1. Building Personal Relationships
 The speaker had two major things in common with a person: star wars and toastmasters.
 Took a photo of him, put it on facebook, someone commented and he found a job.
