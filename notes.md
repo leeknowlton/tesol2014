@@ -5,9 +5,9 @@ pennyur@gmail.com
 ### Game-like Challenges (Why are they fun?)
 1. Clear, achievable goal with a tangible result
 2. Contraints (rules)
-(3.) Open Ended
-(4.) Full Participation
-(5.) Success orientation-likely to succeed. no chance of failure but degrees of success.
+- Open Ended
+- Full Participation
+- Success orientation-likely to succeed. no chance of failure but degrees of success.
 It is possible to make almost any exercise into a game by using constraints.
 Ex. time limit "3 minutes and dont start until I say go" or "make present perfect sentences but dont use the letter L"
 
@@ -64,9 +64,6 @@ Things that can help:
 
 5. Where can I find more ideas?
 - See powerpoint
-
-
-3. 
 
 
 ##3 Secrets of Communication
